@@ -7,9 +7,10 @@
 Detecting anomalous banking transactions using data analytics and machine learning.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?logo=sqlite)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Isolation%20Forest-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Isolation%20Forest-F7931E?logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 </div>
@@ -186,7 +187,7 @@ During this project I gained practical experience in:
 - Data Cleaning
 - Data Analysis
 - Feature Engineering
-- - SQL (SQLite)
+- SQL (SQLite)
 - Database Management
 - Machine Learning
 - Isolation Forest
